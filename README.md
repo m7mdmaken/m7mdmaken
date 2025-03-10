@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/m7mdmaken/m7mdmaken/blob/main/output_optimized.gif?raw=true" width="400">
+  <img src="https://github.com/m7mdmaken/m7mdmaken/blob/main/output_optimized.gif?raw=true" width="700">
 </div>
 
 
@@ -20,19 +20,17 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" height="40">
+
 </div>
 
 ###
