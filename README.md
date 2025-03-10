@@ -1,6 +1,8 @@
 
 
 <h1 align="center">Hi there! 👋 I'm Mohamed Almaken</h1>
+<img src="https://github.com/m7mdmaken/m7mdmaken/blob/main/output_optimized.gif?raw=true" width="400">
+
 
 ###
 
