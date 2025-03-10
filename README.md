@@ -1,37 +1,62 @@
+<div align="center">
 
+
+
+
+</details>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=200&color=gradient&section=header&reversal=false&fontAlign=100"/>
+</p>
 
 <div align="center">
-  <img src="https://github.com/m7mdmaken/m7mdmaken/blob/main/output_optimized.gif?raw=true" width="700">
+  <img src="https://github.com/m7mdmaken/m7mdmaken/blob/main/output_optimized.gif?raw=true" width="720"  height="360">
 </div>
+
+
 
 
 ###
 
 <br clear="both">
-
-<h3 align="center">Software Engineer | Flutter Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Software%20Engineer%20-nl-%20Flutter%20Developer&textBg=false&fontColor=black&fontSize=40&animation=twinkling&reversal=false&fontAlign=40,60&fontAlignY=35,60&stroke=ffffff"/>
+</p>
 
 ###
 
 <br clear="both">
 
-<p align="left">Computer Engineer passionate about software development and mobile app development.  specialized in Flutter</p>
+![speech](https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=25&color=gradient&text=Computer%20Engineer%20passionate%20about%20software%20development-nl-%20and%20mobile%20app%20development.%20%20specialized%20in%20Flutter&fontColor=black&fontAlignY=35,55)
+
+
+
 
 ###
 
-<div align="left">
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/Dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="40">
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" height="40">
-
+<div align="center">
+  <br/>
+  <div>
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/Dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" height="40">
+    
+  </div>
+  <br/>
+  <div>
+    <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" height="40">
+  </div>
+  <br/>
+  <div>
+    <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white" height="40">
+  </div>
+  <br/>
 </div>
+
 
 ###
 
@@ -47,7 +72,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/m7mdalmaken/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -88,3 +113,8 @@
   
 
 </details>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true&fontAlign=48&fontColor=black&animation=blink"/>
+</p>
+
+</div>
