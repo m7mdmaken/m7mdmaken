@@ -7,7 +7,7 @@
   <img src="https://github.com/m7mdmaken/m7mdmaken/blob/main/output_optimized.gif?raw=true" width="720" height="360">
   
   <p>
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Software%20Engineer%20-nl-%20Flutter%20Developer&fontColor=black&fontSize=40&animation=twinkling&fontAlign=40,60&fontAlignY=35,60"/>
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Software%20Engineer%20-nl-%20Flutter%20Developer&fontColor=black&fontSize=40&animation=twinkling&fontAlign=40,60&fontAlignY=35,60&stroke=ffffff"/>
   </p>
 
   <p>
