@@ -1,12 +1,12 @@
 <div align="center"> 
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=200&color=gradient&section=header"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=200&color=timeGradient&section=header"/>
   
   
   <img src="https://github.com/m7mdmaken/m7mdmaken/blob/main/Animation2.gif?raw=true" >
   
   <p>
      <br/> <br/>
-    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Software%20Engineer%20-nl-%20Flutter%20Developer&fontColor=black&fontSize=40&animation=twinkling&fontAlign=40,60&fontAlignY=35,60&stroke=ffffff"/>
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=timeGradient&text=Software%20Engineer%20-nl-%20Flutter%20Developer&fontColor=black&fontSize=40&animation=twinkling&fontAlign=40,60&fontAlignY=35,60&stroke=ffffff"/>
   </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&height=150&text=Computer%20Engineer%20passionate%20about%20crafting%20elegant%20mobile%20experiences.%20Specialized%20in-nl-%20Flutter%20development%20with%20expertise%20in%20building%20scalable%20and%20performant%20applications.&fontSize=20&animation=scaleIn&color=timeGradient"/>
@@ -88,4 +88,4 @@
 
   </p>
   <div align="center"> 
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=200&color=gradient&section=footer&reversal=true"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=200&color=timeGradient&section=footer&reversal=true"/>
