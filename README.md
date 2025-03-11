@@ -1,21 +1,20 @@
-<div align="center">
-
-  <p>
+<div align="center"> 
     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=200&color=gradient&section=header"/>
-  </p>
   
-  <img src="https://github.com/m7mdmaken/m7mdmaken/blob/main/output_optimized.gif?raw=true" width="720" height="360">
+  
+  <img src="https://github.com/m7mdmaken/m7mdmaken/blob/main/Animation2.gif?raw=true" >
   
   <p>
+     <br/> <br/>
     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Software%20Engineer%20-nl-%20Flutter%20Developer&fontColor=black&fontSize=40&animation=twinkling&fontAlign=40,60&fontAlignY=35,60&stroke=ffffff"/>
   </p>
 
-  <p>
-    <img src="https://capsule-render.vercel.app/api?type=speech&height=200&fontSize=25&color=gradient&text=Computer%20Engineer%20passionate%20about%20software%20development-nl-%20and%20mobile%20app%20development.%20Specialized%20in%20Flutter&fontColor=black&fontAlignY=35,55"/>
-  </p>
+ 
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=gradient&text=Computer%20Engineer%20passionate%20about%20crafting%20elegant%20mobile%20experiences.%20Specialized%20in-nl-%20Flutter%20development%20with%20expertise%20in%20building%20scalable%20and%20performant%20applications.&fontSize=20&textBg=false&fontAlign=50&fontAlignY=45&reversal=true&animation=scaleIn
+"/>
 
   <br/>
-
+ <h2>💻 Tech Stack</h2>
   <div>
     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" height="40">
     <img src="https://img.shields.io/badge/Dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" height="40">
@@ -40,7 +39,7 @@
   </div>
   
   <br/>
-
+  <h2>📈 GitHub Stats</h2>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=m7mdmaken&show_icons=true&include_all_commits=true&count_private=true&theme=aura&hide_border=false" height="150" alt="stats graph"/>
     <img src="https://streak-stats.demolab.com?user=m7mdmaken&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"/>
@@ -48,19 +47,26 @@
   </div>
   
   <br/>
-  
+    <h2>🤝 Connect With Me</h2>
   <div>
     <a href="https://www.linkedin.com/in/m7mdalmaken/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn"/>
     </a>
     <a href="https://medium.com/@m7mdmaken" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" height="40" alt="Medium"/>
+      <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge" height="35" alt="Medium"/>
+    </a>
+    <a href="mailto:m7mdmaken@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="Email"/>
     </a>
   </div>
   
+  <p><i>Feel free to reach out for collaboration opportunities or Flutter development discussions!</i></p>
   <br/>
-  
-  <img src="https://profile-counter.glitch.me/m7mdmaken/count.svg?"/>
+ 
+<a href="#">
+    <img src="https://img.shields.io/badge/Visitors--brightgreen?style=for-the-badge" height="30" alt="Visitors">
+</a>
+<img src="https://profile-counter.glitch.me/m7mdmaken/count.svg?"/>
   
   <br/>
 
@@ -80,8 +86,8 @@
       <img src="https://github-read-medium.vercel.app/latest?username=m7mdmaken&limit=4&theme=nord" alt="Recent Articles"/>
     </a>
   </details>
-  
-  <p>
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true"/>
-  </p>
 
+
+  </p>
+  <div align="center"> 
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=200&color=gradient&section=footer&reversal=true"/>
