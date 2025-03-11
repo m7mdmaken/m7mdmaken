@@ -9,9 +9,7 @@
     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Software%20Engineer%20-nl-%20Flutter%20Developer&fontColor=black&fontSize=40&animation=twinkling&fontAlign=40,60&fontAlignY=35,60&stroke=ffffff"/>
   </p>
 
- 
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=150&color=gradient&text=Computer%20Engineer%20passionate%20about%20crafting%20elegant%20mobile%20experiences.%20Specialized%20in-nl-%20Flutter%20development%20with%20expertise%20in%20building%20scalable%20and%20performant%20applications.&fontSize=20&textBg=false&fontAlign=50&fontAlignY=45&reversal=true&animation=scaleIn
-"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=150&text=Computer%20Engineer%20passionate%20about%20crafting%20elegant%20mobile%20experiences.%20Specialized%20in-nl-%20Flutter%20development%20with%20expertise%20in%20building%20scalable%20and%20performant%20applications.&fontSize=20&animation=scaleIn&color=timeGradient"/>
 
   <br/>
  <h2>💻 Tech Stack</h2>
