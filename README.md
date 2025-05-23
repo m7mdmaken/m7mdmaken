@@ -80,9 +80,10 @@
   <details open>
     <summary> 😇 <b>Medium Published Articles</b>: </summary>
     <br>
-    <a href="https://github-read-medium.vercel.app/latest?username=m7mdmaken&limit=4&theme=nord" target="_blank">
+      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@m7mdmaken/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@m7mdmaken/0" alt="Recent Article 0">
+<!--     <a href="https://github-read-medium.vercel.app/latest?username=m7mdmaken&limit=4&theme=nord" target="_blank">
       <img src="https://github-read-medium.vercel.app/latest?username=m7mdmaken&limit=4&theme=nord" alt="Recent Articles"/>
-    </a>
+    </a> -->
   </details>
 
 
