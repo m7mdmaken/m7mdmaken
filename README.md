@@ -1,6 +1,5 @@
-<div align="center"> 
+<div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=200&color=timeGradient&section=header"/>
-  
   
   <img src="https://github.com/m7mdmaken/m7mdmaken/blob/main/Animation2.gif?raw=true" >
   
@@ -60,7 +59,7 @@
   
   <p><i>Feel free to reach out for collaboration opportunities or Flutter development discussions!</i></p>
   <br/>
- 
+
 <a href="#">
     <img src="https://img.shields.io/badge/Visitors--brightgreen?style=for-the-badge" height="30" alt="Visitors">
 </a>
@@ -73,12 +72,13 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m7mdmaken/m7mdmaken/output/github-contribution-grid-snake.svg"/>
     <img alt="github-snake" src="https://raw.githubusercontent.com/m7mdmaken/m7mdmaken/output/github-contribution-grid-snake.svg"/>
   </picture>
-
+<br/>
+          <!-- <h2>👾 Pacman Contribution Graph</h2>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m7mdmaken/m7mdmaken/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m7mdmaken/m7mdmaken/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/m7mdmaken/m7mdmaken/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
   
   <br/>
 
@@ -90,9 +90,8 @@
 <!--     <a href="https://github-read-medium.vercel.app/latest?username=m7mdmaken&limit=4&theme=nord" target="_blank">
       <img src="https://github-read-medium.vercel.app/latest?username=m7mdmaken&limit=4&theme=nord" alt="Recent Articles"/>
     </a> -->
-  </details> 
-
+  </details>
 
   </p>
-  <div align="center"> 
+  <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=200&color=timeGradient&section=footer&reversal=true"/>
