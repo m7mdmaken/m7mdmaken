@@ -73,12 +73,12 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/m7mdmaken/m7mdmaken/output/github-contribution-grid-snake.svg"/>
   </picture>
 <br/>
-          <!-- <h2>👾 Pacman Contribution Graph</h2>
+          <h2>👾 Pacman Contribution Graph</h2>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m7mdmaken/m7mdmaken/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m7mdmaken/m7mdmaken/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/m7mdmaken/m7mdmaken/output/pacman-contribution-graph.svg">
-</picture> -->
+</picture>
   
   <br/>
 
@@ -87,12 +87,12 @@
     <summary> 😇 <b>Medium Published Articles</b>: </summary>
     <br>
       <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@m7mdmaken/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@m7mdmaken/0" alt="Recent Article 0">
-<!--     <a href="https://github-read-medium.vercel.app/latest?username=m7mdmaken&limit=4&theme=nord" target="_blank">
+    <a href="https://github-read-medium.vercel.app/latest?username=m7mdmaken&limit=4&theme=nord" target="_blank">
       <img src="https://github-read-medium.vercel.app/latest?username=m7mdmaken&limit=4&theme=nord" alt="Recent Articles"/>
-    </a> -->
+    </a>
   </details>
 
   </p>
   <div align="center">
-      <p align="left"> <img src="https://komarev.com/ghpvc/?username=m7mdmaken&label=Profile views&color=0e75b6&style=flat" alt="m7mdmaken" /> </p>
+     
     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=200&color=timeGradient&section=footer&reversal=true"/>
