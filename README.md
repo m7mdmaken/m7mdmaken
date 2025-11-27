@@ -64,6 +64,9 @@
 <a href="#">
     <img src="https://img.shields.io/badge/Visitors--brightgreen?style=for-the-badge" height="30" alt="Visitors">
 </a>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mauro.mauro&"  />
+</div>
 <img src="https://profile-counter.glitch.me/m7mdmaken/count.svg?"/>
   
   <br/>
