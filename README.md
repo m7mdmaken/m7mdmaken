@@ -37,12 +37,18 @@
   
   <br/>
   <h2>📈 GitHub Stats</h2>
-  <div>
+  <div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=m7mdmaken&theme=dark&hide_border=false&include_all_commits=false&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=m7mdmaken&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m7mdmaken&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+</div>
+  <!-- <div>
+      
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=m7mdmaken&show_icons=true&include_all_commits=true&count_private=true&theme=aura&hide_border=false" height="150" alt="stats graph"/> -->
-    <img src=" https://github-streaks.tapindersingh.click/?user=m7mdmaken&theme=dark&hide_border=false&v=2&cache=clear"/>
+    <!-- <img src=" https://github-streaks.tapindersingh.click/?user=m7mdmaken&theme=dark&hide_border=false&v=2&cache=clear"/> -->
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m7mdmaken&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"/> -->
       <!-- <img src="https://streak-stats.demolab.com?user=m7mdmaken&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"/> -->
-  </div>
+  </div> -->
   
   <br/>
     <h2>🤝 Connect With Me</h2>
@@ -65,7 +71,7 @@
     <img src="https://img.shields.io/badge/Visitors--brightgreen?style=for-the-badge" height="30" alt="Visitors">
 </a>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mauro.mauro&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=m7mdmaken&"  />
 </div>
 <img src="https://profile-counter.glitch.me/m7mdmaken/count.svg?"/>
   
