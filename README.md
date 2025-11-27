@@ -94,4 +94,5 @@
 
   </p>
   <div align="center">
+      <p align="left"> <img src="https://komarev.com/ghpvc/?username=m7mdmaken&label=Profile views&color=0e75b6&style=flat" alt="m7mdmaken" /> </p>
     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=200&color=timeGradient&section=footer&reversal=true"/>
