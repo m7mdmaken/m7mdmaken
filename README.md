@@ -38,7 +38,7 @@
   <br/>
   <h2>📈 GitHub Stats</h2>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=m7mdmaken&show_icons=true&include_all_commits=true&count_private=true&theme=aura&hide_border=false" height="150" alt="stats graph"/>
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=m7mdmaken&show_icons=true&include_all_commits=true&count_private=true&theme=aura&hide_border=false" height="150" alt="stats graph"/> -->
     <img src=" https://github-streaks.tapindersingh.click/?user=m7mdmaken&theme=dark&hide_border=false&v=2&cache=clear"/>
     <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m7mdmaken&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"/> -->
       <!-- <img src="https://streak-stats.demolab.com?user=m7mdmaken&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"/> -->
