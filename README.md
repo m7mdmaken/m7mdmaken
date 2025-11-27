@@ -73,12 +73,12 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/m7mdmaken/m7mdmaken/output/github-contribution-grid-snake.svg"/>
   </picture>
 <br/>
-          <h2>👾 Pacman Contribution Graph</h2>
+          <!-- <h2>👾 Pacman Contribution Graph</h2>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m7mdmaken/m7mdmaken/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m7mdmaken/m7mdmaken/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/m7mdmaken/m7mdmaken/output/pacman-contribution-graph.svg">
-</picture>
+</picture> -->
   
   <br/>
 
@@ -95,4 +95,4 @@
   </p>
   <div align="center">
      
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=200&color=timeGradient&section=footer&reversal=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&width=200&color=timeGradient&section=footer&reversal=true"/>
